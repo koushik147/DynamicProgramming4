@@ -1,3 +1,5 @@
+#TimeComplexity: O(m*n)
+#SpaceComplexity: O(1)
 class Solution(object):
     def minPathSum(self, grid):
         """
